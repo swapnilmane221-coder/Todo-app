@@ -14,13 +14,13 @@ A simple and elegant to-do application built with Django, featuring user registr
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](assets/login.png)
+!![alt text](image-2.png)
 
 ### 🧾 Register Page
-![Register](assets/register.png)
+![alt text](image-1.png)
 
 ### 📋 Dashboard
-![Dashboard](assets/dashboard.png)
+![alt text](image.png)
 
 ## 🛠️ Tech Stack
 
